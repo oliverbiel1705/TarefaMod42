@@ -1,6 +1,5 @@
 <div align="center">
     
-# Exercício 42
 
 ## Criando microsserviços
 
